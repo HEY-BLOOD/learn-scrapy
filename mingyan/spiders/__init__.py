@@ -2,3 +2,7 @@
 #
 # Please refer to the documentation for information on how to create and manage
 # your spiders.
+import os
+
+DOWNLOAD_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ('downloads'))
