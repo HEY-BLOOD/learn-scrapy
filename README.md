@@ -30,7 +30,7 @@ conda activate D:\scrapy_venv
 **运行蜘蛛：**
 
 ```sh
-scrapy crawl mingyan_spider
+scrapy crawl simple_url
 ```
 
 
