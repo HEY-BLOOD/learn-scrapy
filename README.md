@@ -29,8 +29,11 @@ conda activate D:\scrapy_venv
 
 **运行蜘蛛：**
 
+通过 `-a tag=标签名称` 指定标签爬取
+
+
 ```sh
-scrapy crawl next_spider
+scrapy crawl args_spider -a tag=爱情
 ```
 
 
