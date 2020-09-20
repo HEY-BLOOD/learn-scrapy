@@ -1,4 +1,4 @@
-# mingyan
+# learn-scrapy
 scrapy 框架练习
 
 learn from http://www.scrapyd.cn/doc/
@@ -8,7 +8,7 @@ learn from http://www.scrapyd.cn/doc/
 **克隆项目：**
 
 ```sh
-git clone https://github.com/HEY-BLOOD/mingyan.git
+git clone https://github.com/HEY-BLOOD/learn-scrapy.git
 
 cd ./mingyan
 ```
